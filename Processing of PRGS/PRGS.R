@@ -1,4 +1,4 @@
-# Finally, we merged the 15 groups of pathway responsive genes into a pathway response gene set(PRGS).
+# Finally, we combined the 15 groups of pathway responsive genes into a pathway response gene set(PRGS).
 library(dplyr)
 library(magrittr)
 path <- "F:/Pathway_Gaussian"
