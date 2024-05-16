@@ -3,11 +3,11 @@ The Pathway Response Gene Sets (PRGS) was composed of 15 signaling pathways, eac
 
 The overall process flow of the PRGS was as follows:
 
-1, The pathway response gene set was pre-treated. (preproccess)
+1, The pathway response gene set was pre-treated. (preproccess.R)
 
-2, 15 groups of pathway response genes were obtained. (Ppdd)
+2, 15 groups of pathway response genes were obtained. (Ppdd.R)
 
-3, For each pathway, a Gaussian transformation was performed on each dataset.(Gaussian_transformation)
+3, For each pathway, a Gaussian transformation was performed on each dataset.(Gaussian_transformation.R)
 
-4, we combined the 15 groups of pathway response genes into a pathway-responsive gene set (PRGS).
+4, we combined the 15 groups of pathway response genes into a pathway-responsive gene set (PRGS).(PRGS.R)
 
