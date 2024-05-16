@@ -7,7 +7,7 @@ The overall process flow of the PRGS was as follows:
 
 2, 15 groups of pathway response genes were obtained. (Ppdd.R)
 
-3, For each pathway, a Gaussian transformation was performed on each dataset.(Gaussian_transformation.R)
+3, For each pathway, a Gaussian transformation was performed on each dataset. (Gaussian_transformation.R)
 
-4, we combined the 15 groups of pathway response genes into a pathway-responsive gene set (PRGS).(PRGS.R)
+4, we combined the 15 groups of pathway response genes into a pathway-responsive gene set (PRGS). (PRGS.R)
 
